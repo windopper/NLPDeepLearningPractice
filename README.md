@@ -1,7 +1,7 @@
 # NerualNetworkPracticeInJupiter
 neural network with tensorflow in collab
 
-reference
+references
 
 <a>https://codetorial.net/</a>
 
